@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Topicos avanzados en I.A.
+title:            Tópicos avanzados en I.A.
 tagline:          'Universidad de Sonora'
 description:      'Seminario optativo de la Licenciatura en Ciencias de la Computación'
 url:              https://topicos-ia-unison.github.io
