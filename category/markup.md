@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Chatbot
 ---
 
-Another sample category page.
+El segundo proyecto es el desarrollo de un *Chatbot*, que tenga ciertas capacidades de análisis de texto.
