@@ -3,6 +3,8 @@ layout: category
 title: Chatbot
 ---
 
+![](http://www.dqindia.com/wp-content/uploads/2017/04/chatbots-840x420.jpg)
+
 Este proyecto tiene como objetivo desarrollar un *Chatbot*, que si bien no esperamos que 
 pase la prueba de Turing, realice un análisis de texto más allá de lo que lo hace [Eliza](http://deixilabs.com/eliza.html).
 
