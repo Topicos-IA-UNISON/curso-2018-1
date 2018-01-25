@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Hello Hydeout
+categories:
+  - Borradores
+tags:
+  - ejemplos
 excerpt_separator:  <!--more-->
 ---
 
