@@ -4,8 +4,7 @@ title: "Post: Quote"
 categories:
   - Post Formats
 tags:
-  - Post Formats
-  - quote
+  - ejemplos
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
