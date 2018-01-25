@@ -19,7 +19,7 @@ Los datos particulares del curso son:
 | Horarios   | Lunes de 15:0 a 17:00 y jueves de 15:00 a 16:00                      |
 | Lugar      | Aula 201 y ocasionalmente en la sala de seminarios del edificio 3K-4 |
 
-A continuaci´ detallamos la dinámica del curso y la forma de evaluación de éste...
+A continuación se detalla la dinámica del curso y la forma de evaluación de éste.
 
 <!--more-->
 
