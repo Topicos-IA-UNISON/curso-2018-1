@@ -4,6 +4,13 @@ title: Aprendizaje por refuerzo
 category: Aprendizaje por refuerzo
 ---
 
+![Desktop](/_screenshots/tetris.jpeg?raw=true)
+
+<!--
+<img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
+<img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
+-->
+
 En este tema vamos a ver los principios y operación del aprendizaje por refuerzo, 
 tanto tabular como con funciones de aproximación, y esto lo vamos a aplicar para
 hacer un agente que juegue al *tetris* y le gane.
