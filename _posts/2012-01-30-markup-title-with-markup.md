@@ -4,9 +4,7 @@ title: "Markup: Title *with* **Markdown**"
 categories:
   - Markup
 tags:
-  - css
-  - html
-  - title
+  - ejemplos
 last_modified_at: 2012-01-30T12:25:10-05:00
 ---
 
