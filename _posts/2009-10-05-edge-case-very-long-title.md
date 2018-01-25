@@ -4,12 +4,7 @@ title: "Suspicio? Bene ... tunc ibimus? Quis uh ... CONEXUS locus his diebus? Qu
 categories:
   - Edge Case
 tags:
-  - content
-  - css
-  - edge case
-  - html
-  - layout
-  - title
+  - ejemplos
 ---
 
 Check for long titles and how they might break layouts.
