@@ -4,9 +4,7 @@ title: "Post: Modified Date"
 categories:
   - Post Formats
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - ejemplos
 last_modified_at: 2017-03-09T13:01:27-05:00
 ---
 
