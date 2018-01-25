@@ -5,9 +5,7 @@ excerpt: "A large amount of sample text to test readability of a text heavy page
 categories:
   - Markup
 tags:
-  - sample post
-  - readability
-  - test
+  - ejemplos
 last_modified_at: 2012-01-29T12:26:59-05:00
 ---
 
