@@ -4,7 +4,7 @@ title: Aprendizaje por refuerzo
 category: Aprendizaje por refuerzo
 ---
 
-![Desktop](/_screenshots/tetris.jpeg?raw=true)
+![Desktop](../_screenshots/tetris.jpeg?raw=true)
 
 <!--
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
