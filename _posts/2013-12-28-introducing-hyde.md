@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Hyde
 categories:
-  - Borradores
+  - Post Formats
 tags:
   - ejemplos
 ---
