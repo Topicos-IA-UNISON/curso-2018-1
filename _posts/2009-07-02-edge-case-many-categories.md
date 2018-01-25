@@ -13,8 +13,7 @@ categories:
   - disinclination
   - disinfection
 tags:
-  - categories
-  - edge case
+  - ejemplos
 ---
 
 This post has many categories.
