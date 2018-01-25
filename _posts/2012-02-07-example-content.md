@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Example content
+categories:
+  - Borradores
+tags:
+  - ejemplos
 ---
 
 
