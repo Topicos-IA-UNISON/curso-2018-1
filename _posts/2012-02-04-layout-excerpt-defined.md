@@ -5,9 +5,7 @@ excerpt: "This is a user-defined post excerpt. It should be displayed in place o
 categories:
   - Layout
 tags:
-  - content
-  - excerpt
-  - layout
+  - ejemplos
 last_modified_at: 2012-02-04T12:43:31-05:00
 ---
 
