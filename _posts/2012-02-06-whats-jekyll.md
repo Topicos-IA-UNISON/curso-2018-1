@@ -2,7 +2,7 @@
 layout: post
 title: What's Jekyll?
 categories:
-  - Borradores
+  - Post Formats
 tags:
   - ejemplos
 ---
