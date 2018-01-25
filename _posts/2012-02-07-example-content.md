@@ -2,7 +2,7 @@
 layout: post
 title: Example content
 categories:
-  - Borradores
+  - Post Formats
 tags:
   - ejemplos
 ---
