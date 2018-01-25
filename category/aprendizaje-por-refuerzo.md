@@ -33,4 +33,4 @@ category: My Category
 ---
 ```
 
-Posts get listed below here.
+Los post referentes a este proyecto se incluyen a continuación.
