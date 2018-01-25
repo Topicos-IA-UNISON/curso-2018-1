@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Tratamiento de señales
+category: Tratamiento señales
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Signal-speech-martin-de.png)
@@ -29,27 +30,5 @@ Por establecer
 Por establecer
 
 
-<!---
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
--->
-
-```md
----
-layout: category
-title: My Category
----
-```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
 
 Los post referentes a este proyecto se incluyen a continuación.
