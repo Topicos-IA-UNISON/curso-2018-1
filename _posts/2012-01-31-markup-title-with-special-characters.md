@@ -4,10 +4,7 @@ title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
 categories:
   - Markup
 tags:
-  - html
-  - markup
-  - post
-  - title
+  - ejemplos
 last_modified_at: 2012-01-31T12:23:27-05:00
 ---
 
