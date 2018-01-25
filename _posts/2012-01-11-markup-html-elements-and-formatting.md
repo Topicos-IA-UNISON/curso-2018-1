@@ -5,11 +5,7 @@ sub_title: "The common elements"
 categories:
   - Markup
 elements:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+  - ejemplos
 last_modified_at: 2017-03-09T10:55:59-05:00
 ---
 
