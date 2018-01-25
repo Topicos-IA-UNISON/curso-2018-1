@@ -2,7 +2,7 @@
 layout: post
 title: Hello Hydeout
 categories:
-  - Borradores
+  - Post Formats
 tags:
   - ejemplos
 excerpt_separator:  <!--more-->
