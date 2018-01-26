@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proyectos potencialmente útiles para revisar"
+title: "Proyectos potencialmente útiles"
 excerpt_separator: "<!--more-->"
 categories:
   - Aprendizaje por refuerzo
@@ -9,7 +9,9 @@ tags:
   - tetris
 ---
 
-Dos proyectos existentes en *github* para revisar (seleccionados por Bárbara y Hugues).
+Dos proyectos existentes en *github* para revisar (seleccionados por Bárbara y Hugues) y otros que pienso puede ser útil aventarles un lente.
+
+<!--more-->
 
 1. https://github.com/cespare/go-tetris
 2. **¡Hugues ayuda!** No encontré el proyecto que vimos.
