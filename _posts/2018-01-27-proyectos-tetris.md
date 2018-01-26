@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Golang increible (Awesome Golang)"
+title: "Proyectos potencialmente útiles para revisar"
 excerpt_separator: "<!--more-->"
 categories:
   - Aprendizaje por refuerzo
@@ -12,7 +12,7 @@ tags:
 Dos proyectos existentes en *github* para revisar (seleccionados por Bárbara y Hugues).
 
 1. https://github.com/cespare/go-tetris
-2. **!Hugues ayuda!** No encontré el proyecto que vimos.
+2. **¡Hugues ayuda!** No encontré el proyecto que vimos.
 
 y yo agrego aparte estos que me parecen *potencialmente* útiles:
 
