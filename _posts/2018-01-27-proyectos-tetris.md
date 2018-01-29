@@ -14,7 +14,7 @@ Dos proyectos existentes en *github* para revisar (seleccionados por Bárbara y 
 <!--more-->
 
 1. [https://github.com/cespare/go-tetris](https://github.com/cespare/go-tetris)
-2. **¡Hugues ayuda!** No encontré el proyecto que vimos.
+2. [https://github.com/k0kubun/tetris](https://github.com/k0kubun/tetris).
 
 y yo agrego aparte estos que me parecen *potencialmente* útiles:
 
