@@ -15,26 +15,28 @@ En este tema vamos a ver los principios y operación del aprendizaje por refuerz
 tanto tabular como con funciones de aproximación, y esto lo vamos a aplicar para
 hacer un agente que juegue al *tetris* y le gane.
 
-Por supuesto, esto tambien lo estamos usando como pretexto para programar un 
-juego de *tetris* el cual sea ganador.
+Por supuesto, esto tambien lo estamos usando como pretexto para programar en *go* un 
+juego de *tetris* en el cual se separa claramente el motor de juego de la interfase gráfica.
 
 ### Objetivo del proyecto
 
-1. Desarrollar un juego de Tetris en *go*, el cual se pueda jugar ya sea localmente o en red.
+1. Desarrollar un juego de Tetris en *go*, el cual se pueda jugar ya localmente o en red.
 
 2. Desarrollar un agente que aprenda a jugar al Tetris utilizando aprendizaje por refuerzo.
 
 
 ### Competencias a desarrollar
 
-1. Conocer la teoría básica de aprendizaje por refuerzo y al menos dos algoritmos básicos de
+1. Conocimiento de la teoría básica de aprendizaje por refuerzo y al menos dos algoritmos básicos de
    aprendizaje (*Q-learning* y *Actor-Critic*).
 
-2. Aprender como desarrollar un motor de juego en el leguaje de programación *go* que sea 
+2. Habilidades para el diseño y programacion de un juego de *Tetris* en *go* bien estructurado, y con HMI. 
+
+2. Habilidades de programación en *go* necesarias para el desarrollo de un motor de juego que sea 
    suficientemente rápido para poder entrenar un agente con aprendizaje por refuerzo.
 
-3. Aprender a desarrollar técnicas de aprendizaje por refuerso con aproximación de funciones, y ajustarlas
-   correctamente en la práctica.
+3. Capacidad de implementar en *go* técnicas de aprendizaje por refuerzo con aproximación de funciones, y ajuste
+   de parámetros de aprendizaje en la práctica para un problema concreto.
 
 
 ### Bibliografía básica
