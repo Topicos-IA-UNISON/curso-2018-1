@@ -31,7 +31,7 @@ pase la prueba de Turing, realice un análisis de texto más allá de lo que lo 
 3. [Artículo sobre platafrmas para Chatbots](https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c)
 4. [Un buen tutrial de chatbot con IA](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c)
 5. [Un ejemplo de chatbot utilizando librerías](https://moz.com/blog/chat-bot)
-6. [Eliza, el txto de referencia (PAIP capítulos 5 al 8)](https://github.com/clojurians-org/lisp-ebook)
+6. [Eliza, el texto de referencia (PAIP capítulos 5 al 8)](https://github.com/clojurians-org/lisp-ebook)
 
 ### Bibliografía básica
 
