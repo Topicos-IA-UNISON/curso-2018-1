@@ -46,9 +46,18 @@ juego de *tetris* en el cual se separa claramente el motor de juego de la interf
 2. [Curso de Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) de la maestría en Ciencias de la Computación de *Georgia Tech*, impartido a través de la plataforma de *Udacity*.
 
 
-### Enlaces a los proyectos individuales
+### Enlaces a los proyectos y ejercicios (Evidencias para calificación)
 
-Por establecer
+- **El juego puro y duro**
+   - [Juego de Tetris (Paty y Erick)](https://github.com/TopicosIA/TetrisIA)
+   - [Juego de Tetris (Fran y Gurrola)](https://github.com/LCC-TopicosAvanzadosAI/TetrisAI)
+   - [Juego de Tetris (Bárbara y Rafa)](https://github.com/eltrufas/pixeltetris)
+- **La lógica de juego**
+   - [Motor de juego de tetris (Bárbara y Rafa)](https://github.com/eltrufas/tetriscore)  
+- **Aprendizaje por refuerzo (ejercicios realizados)**
+   - [Rafa: RL para el Tetris](https://github.com/eltrufas/rltetris)
+   - [Fran: Ejercicios RL libro Sutton](https://github.com/Franko1307/Reinforcement-Learning-Golang)
+
 
 
 
