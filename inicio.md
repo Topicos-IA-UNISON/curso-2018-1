@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inicio
+sidebar_link: true
 ---
 
 sidebar_link: true
