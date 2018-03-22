@@ -4,8 +4,6 @@ title: Inicio
 sidebar_link: true
 ---
 
-sidebar_link: true
-
 
 ![](https://raw.githubusercontent.com/Topicos-IA-UNISON/Topicos-IA-UNISON.github.io/master/_screenshots/bienvenida.jpg)
 
