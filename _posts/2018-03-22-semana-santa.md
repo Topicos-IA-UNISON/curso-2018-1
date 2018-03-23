@@ -32,7 +32,7 @@ Compromisos a revisar:
    En este caso, no es importante que ya funcione el aprendizaje, si no que ya se encuentre programado, con la interface
    necesaria. Las opciones que hemos revisado (es posible implementar otra) son:
      
-  + *RL Vainilla*. Esto es, implementar todas las funciones de RL (o un método no muy complicado) con *coarse coding* 
+  + *RL Vainilla*. Esto es, implementar todas las funciones de RL (o un método no muy complicado) con *coarse coding* 
     directamente en *Go* y realizar la simulación. Es mas complicado hacer un agente que funcione de forma muy impresionante 
     pero es seguro la mejor forma de dominar tanto RL como *Go*.
          
