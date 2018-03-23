@@ -28,14 +28,18 @@ Compromisos a revisar:
   3. Un primer método de aprendizaje por refuerzo programado y enlazado con el motor de juego de tetris desarrollado.
      En este caso, no es importante que ya funcione el aprendizaje, si no que ya se encuentre programado, con la interface
      necesaria. Las opciones que hemos revisado (es posible implementar otra) son:
+     
      1. *RL Vainilla*. Esto es, implementar todas las funciones de RL (o un método no muy complicado) con *coarse coding* 
         directamente en *Go* y realizar la simulación. Es mas complicado hacer un agente que funcione de forma muy impresionante 
         pero es seguro la mejor forma de dominar tanto RL como *Go*.
+        
      2. Utilizar [anyRL](https://github.com/unixpickle/anyrl). Es una librería reaizada por *al menos* un programador de 
         [OpenAi](https://openai.com) y hace uso de redes neuronales. El problema es poner el modelo desarrollado en el formato de 
         [AI Gym](https://gym.openai.com).
+        
      3. Utilizar la [API para Go de Tensorflow](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go). 
         Sin embargo la API es bastante limitada resecto a la que existe para otros lenguajes, como Python.
+        
      4. Compilar el modelo como biblioteca y usarlo dentro de Python en combinación con Tensorflow. Es la opción más arcana que vimos, 
         pero podría dar buenos resultados.
         
@@ -44,6 +48,7 @@ Compromisos a revisar:
 *Fecha de revsión: Lunes 16 de abril de 2018*
 
 Ejerccios a realizar:
+
   1. Ejemplo 4.2 (Jack's Car Rental, página 63) y el ejercicio 4.5 (sobre el mismo problema, página 64) 
      utilizando el método de programación dinámica de iteración de política.
   2. Ejercicio 4.9 (Gambler's problem, página 67) utilizando el método de programacion dinámica de iteración de valor.
