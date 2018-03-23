@@ -32,19 +32,19 @@ Compromisos a revisar:
    En este caso, no es importante que ya funcione el aprendizaje, si no que ya se encuentre programado, con la interface
    necesaria. Las opciones que hemos revisado (es posible implementar otra) son:
      
-   + *RL Vainilla*. Esto es, implementar todas las funciones de RL (o un método no muy complicado) con *coarse coding* 
-     directamente en *Go* y realizar la simulación. Es mas complicado hacer un agente que funcione de forma muy impresionante 
-     pero es seguro la mejor forma de dominar tanto RL como *Go*.
+  + *RL Vainilla*. Esto es, implementar todas las funciones de RL (o un método no muy complicado) con *coarse coding* 
+    directamente en *Go* y realizar la simulación. Es mas complicado hacer un agente que funcione de forma muy impresionante 
+    pero es seguro la mejor forma de dominar tanto RL como *Go*.
          
-   + Utilizar [anyRL](https://github.com/unixpickle/anyrl). Es una librería reaizada por *al menos* un programador de 
-     [OpenAi](https://openai.com) y hace uso de redes neuronales. El problema es poner el modelo desarrollado en el formato de 
-     [AI Gym](https://gym.openai.com).
+  + Utilizar [anyRL](https://github.com/unixpickle/anyrl). Es una librería reaizada por *al menos* un programador de 
+    [OpenAi](https://openai.com) y hace uso de redes neuronales. El problema es poner el modelo desarrollado en el formato de 
+    [AI Gym](https://gym.openai.com).
         
-   + Utilizar la [API para Go de Tensorflow](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go). 
+  + Utilizar la [API para Go de Tensorflow](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go). 
      Sin embargo la API es bastante limitada resecto a la que existe para otros lenguajes, como Python.
         
-   + Compilar el modelo como biblioteca y usarlo dentro de Python en combinación con Tensorflow. Es la opción más arcana que vimos, 
-     pero podría dar buenos resultados.
+  + Compilar el modelo como biblioteca y usarlo dentro de Python en combinación con Tensorflow. Es la opción más arcana que vimos, 
+    pero podría dar buenos resultados.
         
 **Ejercicios del [libro de Sutton y Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf)**
 
