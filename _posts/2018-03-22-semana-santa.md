@@ -23,8 +23,10 @@ Como se planteo el martes 20 de marzo, acordamos los siguientes compromisos para
 
 Compromisos a revisar:
   1. Juego de Tetris programado en Go funcionando (con inerface hombre máquina).
+  
   2. Motor de juego representado en forma de modelo de simulación MDP con el fin de ser 
      utilizado por un agente inteligentes (tanto para jugar como para el aprendizaje).
+  
   3. Un primer método de aprendizaje por refuerzo programado y enlazado con el motor de juego de tetris desarrollado.
      En este caso, no es importante que ya funcione el aprendizaje, si no que ya se encuentre programado, con la interface
      necesaria. Las opciones que hemos revisado (es posible implementar otra) son:
@@ -32,7 +34,7 @@ Compromisos a revisar:
        - *RL Vainilla*. Esto es, implementar todas las funciones de RL (o un método no muy complicado) con *coarse coding* 
          directamente en *Go* y realizar la simulación. Es mas complicado hacer un agente que funcione de forma muy impresionante 
          pero es seguro la mejor forma de dominar tanto RL como *Go*.
-        
+         
        - Utilizar [anyRL](https://github.com/unixpickle/anyrl). Es una librería reaizada por *al menos* un programador de 
          [OpenAi](https://openai.com) y hace uso de redes neuronales. El problema es poner el modelo desarrollado en el formato de 
          [AI Gym](https://gym.openai.com).
