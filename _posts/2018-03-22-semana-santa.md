@@ -54,7 +54,8 @@ Ejerccios a realizar:
      
   2. Ejercicio 4.9 (Gambler's problem, página 67) utilizando el método de programacion dinámica de iteración de valor.
   
-  3. Ejemplo 6.5 (Windy Gridworld, página 104) y ejercicios 6.9 y 6.10 (sobre el mismo problema, página 105) para el método de aprendizaje SARSA.
+  3. Ejemplo 6.5 (Windy Gridworld, página 104) y ejercicios 6.9 y 6.10 (sobre el mismo problema, página 105) para 
+     el método de aprendizaje SARSA.
   
   4. Ejemplo 6.6 (Cliff Walking, página 106) sobre el método de aprendizaje Q-Learning.
   
