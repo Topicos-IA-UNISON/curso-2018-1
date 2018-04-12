@@ -15,7 +15,7 @@ pase la prueba de Turing, realice un análisis de texto más allá de lo que lo 
 
 ### Competencias a desarrollar
 
-1. Conocer las técnicas básicas de computo simbólico.
+1. ~~Conocer las técnicas básicas de computo simbólico.~~
 
 2. Estudiar y conocer los métodos para análisis de texto.
 
@@ -37,9 +37,14 @@ pase la prueba de Turing, realice un análisis de texto más allá de lo que lo 
 
 Por establecer
 
-### Enlaces a los proyectos individuales
+### Enlaces a los proyectos
 
-Por establecer
+#### Proyecto básico usando `spaCy` 
+1. [Paty y Erick](https://github.com/TopicosIA/Pytbot)
+2. [Fran y Gurrola](https://github.com/LCC-TopicosAvanzadosAI/ChatBot)
+3. [Bárbara y Rafa]()
+
+
 
 
 
