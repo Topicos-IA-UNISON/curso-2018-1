@@ -57,6 +57,7 @@ juego de *tetris* en el cual se separa claramente el motor de juego de la interf
 - **Aprendizaje por refuerzo (ejercicios realizados)**
    - [Rafa: RL para el Tetris](https://github.com/eltrufas/rltetris)
    - [Fran: Ejercicios RL libro Sutton](https://github.com/Franko1307/Reinforcement-Learning-Golang)
+   - [Gurrola: Ejercicios RL libro Sutton](https://github.com/JoseGurrola/Reinforcement-Learning-Go)
 
 
 
