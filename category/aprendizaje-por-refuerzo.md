@@ -52,14 +52,16 @@ juego de *tetris* en el cual se separa claramente el motor de juego de la interf
    - [Juego de Tetris (Paty y Erick)](https://github.com/TopicosIA/TetrisIA)
    - [Juego de Tetris (Fran y Gurrola)](https://github.com/LCC-TopicosAvanzadosAI/TetrisAI)
    - [Juego de Tetris (Bárbara y Rafa)](https://github.com/eltrufas/pixeltetris)
-- **La lógica de juego**
+- **Modelo lógico y agentes RL (en caso de haberlo hecho en repositorios diferentes**
    - [Motor de juego de tetris (Bárbara y Rafa)](https://github.com/eltrufas/tetriscore)  
-- **Aprendizaje por refuerzo (ejercicios realizados)**
    - [Rafa: RL para el Tetris](https://github.com/eltrufas/rltetris)
-   - [Fran: Ejercicios RL libro Sutton](https://github.com/Franko1307/Reinforcement-Learning-Golang)
-   - [Gurrola: Ejercicios RL libro Sutton](https://github.com/JoseGurrola/Reinforcement-Learning-Go)
-
-
+- **Aprendizaje por refuerzo (ejercicios realizados)**
+   - [Fran](https://github.com/Franko1307/Reinforcement-Learning-Golang)
+   - [Gurrola](https://github.com/JoseGurrola/Reinforcement-Learning-Go)
+   - [Erick](https://github.com/ErickLF/Aprendizaje-por-Refuerzo)
+   - Barbara:
+       - [Ejercicio 3](https://github.com/barbaraDorame/Sarsa_Windy_Gridworld)
+       - [Ejercicio 4](https://github.com/barbaraDorame/Q_Learning_Cliff_Walking)
 
 
 Los post referentes a este proyecto se incluyen a continuación.
