@@ -42,7 +42,7 @@ Por establecer
 #### Proyecto básico usando `spaCy` 
 1. [Paty y Erick](https://github.com/TopicosIA/Pytbot)
 2. [Fran y Gurrola](https://github.com/LCC-TopicosAvanzadosAI/ChatBot)
-3. [Bárbara y Rafa]()
+3. [Bárbara y Rafa](https://github.com/barbaraDorame/Chatbot_Radical_Seller)
 
 
 
