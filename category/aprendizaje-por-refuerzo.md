@@ -48,20 +48,23 @@ juego de *tetris* en el cual se separa claramente el motor de juego de la interf
 
 ### Enlaces a los proyectos y ejercicios (Evidencias para calificación)
 
-- **El juego puro y duro**
+- **El juego**
    - [Juego de Tetris (Paty y Erick)](https://github.com/TopicosIA/TetrisIA)
    - [Juego de Tetris (Fran y Gurrola)](https://github.com/LCC-TopicosAvanzadosAI/TetrisAI)
    - [Juego de Tetris (Bárbara y Rafa)](https://github.com/eltrufas/pixeltetris)
-- **Modelo lógico y agentes RL (en caso de haberlo hecho en repositorios diferentes**
    - [Motor de juego de tetris (Bárbara y Rafa)](https://github.com/eltrufas/tetriscore)  
-   - [Rafa: RL para el Tetris](https://github.com/eltrufas/rltetris)
+   - [RL para el Tetris (Bárbara y Rafa)](https://github.com/eltrufas/rltetris)
 - **Aprendizaje por refuerzo (ejercicios realizados)**
    - [Fran](https://github.com/Franko1307/Reinforcement-Learning-Golang)
    - [Gurrola](https://github.com/JoseGurrola/Reinforcement-Learning-Go)
    - [Erick](https://github.com/ErickLF/Aprendizaje-por-Refuerzo)
    - Barbara:
+       - [Ejercicio 2](https://github.com/barbaraDorame/Value_Iteration)
        - [Ejercicio 3](https://github.com/barbaraDorame/Sarsa_Windy_Gridworld)
        - [Ejercicio 4](https://github.com/barbaraDorame/Q_Learning_Cliff_Walking)
+       - [Ejercicio 5](https://github.com/barbaraDorame/Sm_Sarsa_Mountain_car_task)
+   - [Paty](https://github.com/PatQz/RLGo)
+   - [Rafa](https://github.com/eltrufas/suttonrl)
 
 
 Los post referentes a este proyecto se incluyen a continuación.
