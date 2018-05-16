@@ -33,13 +33,9 @@ pase la prueba de Turing, realice un análisis de texto más allá de lo que lo 
 5. [Un ejemplo de chatbot utilizando librerías](https://moz.com/blog/chat-bot)
 6. [Eliza, el texto de referencia (PAIP capítulos 5 al 8)](https://github.com/clojurians-org/lisp-ebook)
 
-### Bibliografía básica
 
-Por establecer
+### Enlaces a los proyectos (código)
 
-### Enlaces a los proyectos
-
-#### Proyecto básico usando `spaCy` 
 1. [Paty y Erick](https://github.com/TopicosIA/Pytbot)
 2. [Fran y Gurrola](https://github.com/LCC-TopicosAvanzadosAI/ChatBot)
 3. [Bárbara y Rafa](https://github.com/barbaraDorame/Chatbot_Radical_Seller)
