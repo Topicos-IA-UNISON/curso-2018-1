@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-![](https://raw.githubusercontent.com/Topicos-IA-UNISON/Topicos-IA-UNISON.github.io/master/_screenshots/bienvenida.jpg)
+![](https://raw.githubusercontent.com/Topicos-IA-UNISON/curso-2018-1/master/_screenshots/bienvenida.jpg)
 
 Hola, soy [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/) y espero que este curso sea muy provechoso 
 para todos nosotros, que aprendamos muchas cosas nuevas al tiempo que vamos desarrollando proyectos.
