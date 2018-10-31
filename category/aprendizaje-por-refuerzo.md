@@ -4,7 +4,7 @@ title: Aprendizaje por refuerzo
 category: Aprendizaje por refuerzo
 ---
 
-![](https://raw.githubusercontent.com/Topicos-IA-UNISON/Topicos-IA-UNISON.github.io/master/_screenshots/tetris.jpeg)
+![](https://raw.githubusercontent.com/Topicos-IA-UNISON/curso-2018-1/master/_screenshots/tetris.jpeg)
 
 <!--
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
